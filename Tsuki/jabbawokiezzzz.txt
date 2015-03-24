@@ -1,0 +1,34 @@
+Photo detection
+Role: Supporting Developer
+-Getting response in xml form.
+-Convert in to request.
+-Collect requested information  and then convert it in xml format & return the response.
+
+Usb sychronization 
+Role: Developer
+-Usb driver behaviour when usb connected.
+-Find first interrupt point when usb is connected.
+-Use inotify kernel tool to find changes on usb.
+-Do required opration like coping,updating, deleting,moving etc..
+
+Graph Reader Application
+Role: Developer
+-Get image from client.
+-Convert image into PGM(grayscale) format.
+-read the pixel value and their respective X and Y co-ordinate.
+-Store data in file.
+-Merge multiple graph into single graph.
+
+WHQL-Testing
+Role: Driver Testing
+-Windows HCK 2.1 server setup
+-client setup
+-Driver test selection according to harware & driver.
+-If test fails then provide reason of failure and from where it fails in driver coding.
+-Provide all the test results.
+
+Internal Library 
+Role: Developer
+-Internal library implementation.
+ 
+ 
