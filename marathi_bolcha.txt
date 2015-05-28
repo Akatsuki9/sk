@@ -1,0 +1,340 @@
+http://www.bookofindia.com/English-to-Hindi-and-Marathi.html
+http://mindurmarathi.com/Marathi-vocabulary
+http://mindurmarathi.com/basic-words-and-phrases
+
+[20:05:41]  
+https://help.ubuntu.com/community/Installation/MinimalCD
+[20:05:41]  
+https://help.ubuntu.com/community/Installation/MinimalCD
+ 
+Friday, December 26, 2014
+Rj
+[17:46:04]  
+http://stackoverflow.com/questions/23766354/reliable-build-of-the-linux-kernel-for-the-beaglebone-black
+[17:46:04]  
+http://stackoverflow.com/questions/23766354/reliable-build-of-the-linux-kernel-for-the-beaglebone-black
+ 
+Tuesday, January 6, 2015
+Rj
+[12:29:35]  
+1552 export CROSS_COMPILE=../gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux 1553 export CROSS_COMPILE=../gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-
+[12:29:35]  
+1552 export CROSS_COMPILE=../gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux 1553 export CROSS_COMPILE=../gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-
+ 
+Wednesday, January 7, 2015
+Rj
+Tuesday, February 17, 2015
+Rj
+[12:02:08]  
+http://crunchbang.org/forums/viewtopic.php?id=31262
+[12:02:08]  
+http://crunchbang.org/forums/viewtopic.php?id=31262
+[12:02:17]  
+http://www.omgubuntu.co.uk/2011/12/how-to-connect-your-android-ice-cream-sandwich-phone-to-ubuntu-for-file-access/
+[12:02:17]  
+http://www.omgubuntu.co.uk/2011/12/how-to-connect-your-android-ice-cream-sandwich-phone-to-ubuntu-for-file-access/
+[12:02:28]  
+http://blog.itsbilal.com/2012/12/connect-an-android-4-0-phonetablet-to-ubuntu-the-reliable-way/
+[12:02:28]  
+http://blog.itsbilal.com/2012/12/connect-an-android-4-0-phonetablet-to-ubuntu-the-reliable-way/
+ 
+Wednesday, February 18, 2015
+Rj
+[16:48:38]  
+http://unix.stackexchange.com/questions/176140/how-to-force-a-device-to-be-mounted-as-mass-media-storage-mms-rather-than-medi
+[16:48:38]  
+http://unix.stackexchange.com/questions/176140/how-to-force-a-device-to-be-mounted-as-mass-media-storage-mms-rather-than-medi
+ 
+Friday, February 20, 2015
+Rj
+[11:25:16]  
+http://www.tuxradar.com/content/command-line-tricks-smart-geeks
+[11:25:16]  
+http://www.tuxradar.com/content/command-line-tricks-smart-geeks
+[12:01:51]  
+http://ubuntuforums.org/showthread.php?t=1479239
+[12:01:51]  
+http://ubuntuforums.org/showthread.php?t=1479239
+ 
+Saturday, February 21, 2015
+Rj
+[14:58:12]  
+http://www.dreamincode.net/forums/topic/76816-image-processing-tutorial/
+[14:58:12]  
+http://www.dreamincode.net/forums/topic/76816-image-processing-tutorial/
+ 
+Monday, February 23, 2015
+Rj
+[18:46:30]  
+http://www.sciweavers.org/free-online-image-converter
+[18:46:30]  
+http://www.sciweavers.org/free-online-image-converter
+ 
+Tuesday, February 24, 2015
+Rj
+[10:31:29]  
+http://www.dreamincode.net/forums/topic/76816-image-processing-tutorial/
+[10:31:29]  
+http://www.dreamincode.net/forums/topic/76816-image-processing-tutorial/
+ 
+Wednesday, February 25, 2015
+Rj
+[18:17:25]  
+http://nicoleibrahim.com/
+[18:17:25]  
+http://nicoleibrahim.com/
+[18:20:17]  
+http://www.usb.org/developers/defined_class
+[18:20:17]  
+http://www.usb.org/developers/defined_class
+[18:23:10]  
+https://developer.bluetooth.org/DevelopmentResources/Pages/Getting-Started.aspx
+[18:23:10]  
+https://developer.bluetooth.org/DevelopmentResources/Pages/Getting-Started.aspx
+ 
+Saturday, February 28, 2015
+Rj
+[10:28:39]  
+http://www.voip-sip-sdk.com/DevelopersGuide/Softphone/
+[10:28:39]  
+http://www.voip-sip-sdk.com/DevelopersGuide/Softphone/
+[10:28:49]  
+http://www.voip-sip-sdk.com/p_345-voip-mp3-playing-voip.html
+[10:28:49]  
+http://www.voip-sip-sdk.com/p_345-voip-mp3-playing-voip.html
+[10:28:57]  
+http://www.nerdmodo.com/2009/07/creating-recording-sound-in-wav-file-using-mimos-with-cc/
+[10:28:57]  
+http://www.nerdmodo.com/2009/07/creating-recording-sound-in-wav-file-using-mimos-with-cc/
+[10:29:11]  
+http://www.portaudio.com/
+[10:29:11]  
+http://www.portaudio.com/
+[10:29:17]  
+http://www.linuxjournal.com/article/6735?page=0,0
+[10:29:17]  
+http://www.linuxjournal.com/article/6735?page=0,0
+[10:31:05]  
+http://www.java2s.com/Tutorial/Java/0120__Development/Thisisasimpleprogramtorecordsoundsandplaythemback.htm
+[10:31:05]  
+http://www.java2s.com/Tutorial/Java/0120__Development/Thisisasimpleprogramtorecordsoundsandplaythemback.htm
+[10:37:43]  
+http://www.highcriteria.com/
+[10:37:43]  
+http://www.highcriteria.com/
+[10:38:02]  
+http://forums.codeguru.com/showthread.php?326786-recording-sound-in-C
+[10:38:02]  
+http://forums.codeguru.com/showthread.php?326786-recording-sound-in-C
+[10:44:09]  
+https://developer.chrome.com/devtools/docs/network#resource-network-timing
+[10:44:09]  
+https://developer.chrome.com/devtools/docs/network#resource-network-timing
+[10:51:59]  
+https://www.codeschool.com/courses/discover-devtools
+[10:51:59]  
+https://www.codeschool.com/courses/discover-devtools
+[10:53:34]  
+http://www.html5rocks.com/en/tutorials/developertools/part1/
+[10:53:34]  
+http://www.html5rocks.com/en/tutorials/developertools/part1/
+
+[12:47:43]  
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\WDExpress.exe
+ 
+Monday, March 2, 2015
+Rj
+[14:26:30]  
+http://stackoverflow.com/questions/5148365/recording-mic-to-a-wav-or-mp3-file-on-linux
+[14:26:30]  
+http://stackoverflow.com/questions/5148365/recording-mic-to-a-wav-or-mp3-file-on-linux
+[14:43:36]  
+Private function name should be start with Capital or small?
+[14:43:36]  
+Private function name should be start with Capital or small?
+[15:12:30]  
+http://www.4front-tech.com/pguide/audio.html
+[15:12:30]  
+http://www.4front-tech.com/pguide/audio.html
+[15:12:39]  
+http://www.4front-tech.com/pguide/intro.html
+[15:12:39]  
+http://www.4front-tech.com/pguide/intro.html
+[15:12:47]  
+http://linux-sunxi.org/Audio_Codec
+[15:12:47]  
+http://linux-sunxi.org/Audio_Codec
+[15:13:12]  
+http://www.portaudio.com/docs/v19-doxydocs/index.html
+[15:13:12]  
+http://www.portaudio.com/docs/v19-doxydocs/index.html
+[15:13:29]  
+http://www.portaudio.com/download.html
+[15:13:29]  
+http://www.portaudio.com/download.html
+[15:13:43]  
+https://www.assembla.com/spaces/portaudio/wiki/UsingThePortAudioSvnRepository
+[15:13:43]  
+https://www.assembla.com/spaces/portaudio/wiki/UsingThePortAudioSvnRepository
+[15:13:56]  
+https://subversion.assembla.com/svn/portaudio/portaudio/
+[15:13:56]  
+https://subversion.assembla.com/svn/portaudio/portaudio/
+[15:14:28]  
+http://equalarea.com/paul/alsa-audio.html
+[15:14:28]  
+http://equalarea.com/paul/alsa-audio.html
+[15:14:41]  
+http://linuxconfig.org/how-to-test-microphone-with-audio-linux-sound-architecture-alsa
+[15:14:41]  
+http://linuxconfig.org/how-to-test-microphone-with-audio-linux-sound-architecture-alsa
+[15:14:50]  
+http://stackoverflow.com/questions/9781797/how-to-get-voice-in-raw-format-by-using-mic-in-linux
+[15:14:50]  
+http://stackoverflow.com/questions/9781797/how-to-get-voice-in-raw-format-by-using-mic-in-linux
+[15:15:15]  
+http://www.linuxjournal.com/article/6735?page=0,0
+[15:15:15]  
+http://www.linuxjournal.com/article/6735?page=0,0
+[15:15:27]  
+http://stackoverflow.com/questions/2916113/best-practice-for-c-audio-capture-api-under-linux
+[15:15:27]  
+http://stackoverflow.com/questions/2916113/best-practice-for-c-audio-capture-api-under-linux
+[15:15:35]  
+http://0pointer.de/blog/projects/guide-to-sound-apis
+[15:15:35]  
+http://0pointer.de/blog/projects/guide-to-sound-apis
+[15:15:46]  
+http://stackoverflow.com/questions/5148365/recording-mic-to-a-wav-or-mp3-file-on-linux
+[15:15:47]  
+http://stackoverflow.com/questions/5148365/recording-mic-to-a-wav-or-mp3-file-on-linux
+ 
+Thursday, March 5, 2015
+Rj
+[17:57:12]  
+https://msdn.microsoft.com/en-us/library/ms531406%28v=vs.85%29.aspx
+[17:57:12]  
+https://msdn.microsoft.com/en-us/library/ms531406%28v=vs.85%29.aspx
+ 
+Monday, March 9, 2015
+Rj
+[10:07:14]  
+http://www.saunalahti.fi/~s7l/blog/2005/08/21/Full%20Duplex%20ALSA
+[10:07:14]  
+http://www.saunalahti.fi/~s7l/blog/2005/08/21/Full%20Duplex%20ALSA
+[10:26:36]  
+http://codereview.stackexchange.com/questions/39521/recording-audio-in-c
+[10:26:36]  
+http://codereview.stackexchange.com/questions/39521/recording-audio-in-c
+[11:12:13]  
+http://xmodulo.com/how-to-capture-microphone-input-to-wav-format-file.html
+[11:12:13]  
+http://xmodulo.com/how-to-capture-microphone-input-to-wav-format-file.html
+ 
+Tuesday, March 10, 2015
+Rj
+[16:37:27]  
+https://github.com/certik/record/blob/master/arecord.c
+[16:37:28]  
+https://github.com/certik/record/blob/master/arecord.c
+ 
+Tuesday, March 17, 2015
+
+[15:52:52]  
+If any hardware is physically damaged so plz inform network department as soon as posible rather to repair it by yourself.
+ 
+Monday, March 30, 2015
+Rj
+[18:27:48]  
+http://jan.newmarch.name/LinuxSound/
+[18:27:48]  
+http://jan.newmarch.name/LinuxSound/
+ 
+Saturday, April 4, 2015
+Rj
+[16:15:35]  
+http://www.codeproject.com/Articles/21110/Face-Detection-C-Library-with-Skin-and-Motion-Anal
+[16:15:35]  
+http://www.codeproject.com/Articles/21110/Face-Detection-C-Library-with-Skin-and-Motion-Anal
+ 
+Saturday, April 11, 2015
+Rj
+[10:47:47]  
+\\Rxmedia\manuals_books\Training_Videos\Systems_C++_Java\Operating_System
+[10:47:47]  
+\\Rxmedia\manuals_books\Training_Videos\Systems_C++_Java\Operating_System
+ 
+Tuesday, April 14, 2015
+Rj
+[15:57:07]  
+http://morsecode.scphillips.com/morse.html
+[15:57:07]  
+http://morsecode.scphillips.com/morse.html
+ 
+Wednesday, April 15, 2015
+Rj
+[12:04:30]  
+http://csbruce.com/software/utf-8.html
+[12:04:30]  
+http://csbruce.com/software/utf-8.html
+[14:14:28]  
+A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. Statement n says ' At least n of the statements on this sheet are false. ' Which statements are true and which are false? Read more at http://www.m4maths.com/13280-solve-m4maths-and-indiabix-i-am-200-sure-that-u-wl-b-selected-i-appti-i-am-seleted-and-in.html#Mshwrl86AOeAzfR7.99
+[14:14:28]  
+A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. Statement n says ' At least n of the statements on this sheet are false. ' Which statements are true and which are false? Read more at http://www.m4maths.com/13280-solve-m4maths-and-indiabix-i-am-200-sure-that-u-wl-b-selected-i-appti-i-am-seleted-and-in.html#Mshwrl86AOeAzfR7.99
+ 
+Saturday, April 25, 2015
+Rj
+[14:42:28]  
+http://en.wikibooks.org/wiki/Windows_Programming/Handles_and_Data_Types
+[14:42:28]  
+http://en.wikibooks.org/wiki/Windows_Programming/Handles_and_Data_Types
+ 
+Tuesday, April 28, 2015
+Rj
+[10:58:19]  
+http://betteros.org/tut/graphics1.php
+[10:58:19]  
+http://betteros.org/tut/graphics1.php
+ 
+Thursday, April 30, 2015
+Rj
+[11:05:00]  
+http://beej.us/guide/bgipc/output/html/multipage/index.html
+[11:05:00]  
+http://beej.us/guide/bgipc/output/html/multipage/index.html
+ 
+Monday, May 4, 2015
+Rj
+[13:39:14]  
+http://stackoverflow.com/questions/7770878/writing-a-simple-voip-application-with-c
+[13:39:14]  
+http://stackoverflow.com/questions/7770878/writing-a-simple-voip-application-with-c
+[13:39:46]  
+http://stackoverflow.com/questions/5127383/voip-programming
+[13:39:46]  
+http://stackoverflow.com/questions/5127383/voip-programming
+ 
+Friday, May 15, 2015
+Rj
+[09:48:03]  
+http://www.themebeta.com/
+[09:48:03]  
+http://www.themebeta.com/
+ 
+Thursday, May 21, 2015
+Rj
+[16:21:05]  
+http://www.thegeekstuff.com/2012/03/reverse-engineering-tools/
+[16:21:05]  
+http://www.thegeekstuff.com/2012/03/reverse-engineering-tools/
+[17:33:02]  
+http://yszheda.github.io/wiki/
+[17:33:02]  
+http://yszheda.github.io/wiki/
+[17:43:54]  
+http://www.linuxnix.com/2013/04/linuxunix-shell-ps1-prompt-explained-in-detail.html
+[17:43:54]  
+http://www.linuxnix.com/2013/04/linuxunix-shell-ps1-prompt-explained-in-detail.html
+
+
+http://stackoverflow.com/questions/13270174/facedetect-cpp-to-detect-eye-in-a-cropped-image
